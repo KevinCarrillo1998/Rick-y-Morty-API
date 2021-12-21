@@ -1,0 +1,14 @@
+{
+  "name": "api-rick",
+  "version": "1.0.0",
+  "description": "Consumir una API ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Kevin Carrillo Davila",
+  "license": "ISC"
+}
